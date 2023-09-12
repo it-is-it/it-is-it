@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img height=200 align= "center" src="https://github-readme-stats.vercel.app/api?username=it-is-it&show_icons=true&theme=tokyonight" alt="it-is-it" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=it-is-it&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=it-is-it&theme=tokyonight&card_width=650)](https://git.io/streak-stats)
