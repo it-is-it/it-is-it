@@ -65,7 +65,7 @@ Advanced React concepts, including Hooks and Context API.
 
 ---
 
-##📝 Code Stats & Languages
+## 📝 Code Stats & Languages
 
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-is-it&show_icons=true&layout=donut&locale=en&theme=tokyonight" alt="it-is-it" /></p>
 
