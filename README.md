@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Projects
-- [Ecommerce Website](#) - A responsive ecommerce website built with React.
+- [Ecommerce Website](#) - A responsive ecommerce website built with Nextjs.
 - [Portfolio](https://ishwortimalsina.com.np/) - Personal portfolio showcasing my web development skills.
 
 ## 🌱 Currently Learning
