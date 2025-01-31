@@ -72,7 +72,3 @@ Advanced React concepts, including Hooks and Context API.
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=it-is-it&show_icons=true&theme=tokyonight" alt="it-is-it" /></p>
 
 ### 💪GitHub Streak Stats
-<p align="left">
-  <img height=160 src="https://streak-stats.demolab.com?user=it-is-it&theme=tokyonight&card_width=400" alt="it-is-it's GitHub Streak" />
-</p>
-
